@@ -8,13 +8,38 @@
 
 /* Begin PBXBuildFile section */
 		09CD5F5519DEDD160026116C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CD5F5419DEDD160026116C /* AppDelegate.swift */; };
-		09CD5F5719DEDD160026116C /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5F5619DEDD160026116C /* GameScene.sks */; };
 		09CD5F5919DEDD160026116C /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CD5F5819DEDD160026116C /* GameScene.swift */; };
 		09CD5F5B19DEDD160026116C /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CD5F5A19DEDD160026116C /* GameViewController.swift */; };
 		09CD5F5E19DEDD160026116C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5F5C19DEDD160026116C /* Main.storyboard */; };
 		09CD5F6019DEDD160026116C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5F5F19DEDD160026116C /* Images.xcassets */; };
 		09CD5F6319DEDD160026116C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5F6119DEDD160026116C /* LaunchScreen.xib */; };
 		09CD5F6F19DEDD160026116C /* ZombieCongaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09CD5F6E19DEDD160026116C /* ZombieCongaTests.swift */; };
+		09CD600919E08F080026116C /* Icon29.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FEC19E08F080026116C /* Icon29.png */; };
+		09CD600A19E08F080026116C /* Icon29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FED19E08F080026116C /* Icon29@2x.png */; };
+		09CD600B19E08F080026116C /* Icon29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FEE19E08F080026116C /* Icon29@3x.png */; };
+		09CD600C19E08F080026116C /* Icon40.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FEF19E08F080026116C /* Icon40.png */; };
+		09CD600D19E08F080026116C /* Icon40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FF019E08F080026116C /* Icon40@2x.png */; };
+		09CD600E19E08F080026116C /* Icon40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FF119E08F080026116C /* Icon40@3x.png */; };
+		09CD600F19E08F080026116C /* Icon60.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FF219E08F080026116C /* Icon60.png */; };
+		09CD601019E08F080026116C /* Icon60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FF319E08F080026116C /* Icon60@2x.png */; };
+		09CD601119E08F080026116C /* Icon60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FF419E08F080026116C /* Icon60@3x.png */; };
+		09CD601219E08F080026116C /* Icon76.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FF519E08F080026116C /* Icon76.png */; };
+		09CD601319E08F080026116C /* Icon76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FF619E08F080026116C /* Icon76@2x.png */; };
+		09CD601419E08F080026116C /* iTunesArtwork.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FF819E08F080026116C /* iTunesArtwork.png */; };
+		09CD601519E08F080026116C /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FF919E08F080026116C /* iTunesArtwork@2x.png */; };
+		09CD601619E08F080026116C /* Icon1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FFB19E08F080026116C /* Icon1024.png */; };
+		09CD601719E08F080026116C /* Icon128.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FFC19E08F080026116C /* Icon128.png */; };
+		09CD601819E08F080026116C /* Icon16.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FFD19E08F080026116C /* Icon16.png */; };
+		09CD601919E08F080026116C /* Icon256.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FFE19E08F080026116C /* Icon256.png */; };
+		09CD601A19E08F080026116C /* Icon32.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD5FFF19E08F080026116C /* Icon32.png */; };
+		09CD601B19E08F080026116C /* Icon512.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD600019E08F080026116C /* Icon512.png */; };
+		09CD601C19E08F080026116C /* Icon64.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD600119E08F080026116C /* Icon64.png */; };
+		09CD601D19E08F080026116C /* background1.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD600319E08F080026116C /* background1.png */; };
+		09CD601E19E08F080026116C /* background2.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD600419E08F080026116C /* background2.png */; };
+		09CD601F19E08F080026116C /* MainMenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD600519E08F080026116C /* MainMenu.png */; };
+		09CD602019E08F080026116C /* YouLose.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD600619E08F080026116C /* YouLose.png */; };
+		09CD602119E08F080026116C /* YouWin.png in Resources */ = {isa = PBXBuildFile; fileRef = 09CD600719E08F080026116C /* YouWin.png */; };
+		09CD602219E08F080026116C /* sprites.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 09CD600819E08F080026116C /* sprites.atlas */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,7 +56,6 @@
 		09CD5F4F19DEDD160026116C /* ZombieConga.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZombieConga.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		09CD5F5319DEDD160026116C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		09CD5F5419DEDD160026116C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		09CD5F5619DEDD160026116C /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		09CD5F5819DEDD160026116C /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		09CD5F5A19DEDD160026116C /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		09CD5F5D19DEDD160026116C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -40,6 +64,32 @@
 		09CD5F6819DEDD160026116C /* ZombieCongaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZombieCongaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		09CD5F6D19DEDD160026116C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		09CD5F6E19DEDD160026116C /* ZombieCongaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZombieCongaTests.swift; sourceTree = "<group>"; };
+		09CD5FEC19E08F080026116C /* Icon29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon29.png; sourceTree = "<group>"; };
+		09CD5FED19E08F080026116C /* Icon29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon29@2x.png"; sourceTree = "<group>"; };
+		09CD5FEE19E08F080026116C /* Icon29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon29@3x.png"; sourceTree = "<group>"; };
+		09CD5FEF19E08F080026116C /* Icon40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon40.png; sourceTree = "<group>"; };
+		09CD5FF019E08F080026116C /* Icon40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon40@2x.png"; sourceTree = "<group>"; };
+		09CD5FF119E08F080026116C /* Icon40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon40@3x.png"; sourceTree = "<group>"; };
+		09CD5FF219E08F080026116C /* Icon60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon60.png; sourceTree = "<group>"; };
+		09CD5FF319E08F080026116C /* Icon60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon60@2x.png"; sourceTree = "<group>"; };
+		09CD5FF419E08F080026116C /* Icon60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon60@3x.png"; sourceTree = "<group>"; };
+		09CD5FF519E08F080026116C /* Icon76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon76.png; sourceTree = "<group>"; };
+		09CD5FF619E08F080026116C /* Icon76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon76@2x.png"; sourceTree = "<group>"; };
+		09CD5FF819E08F080026116C /* iTunesArtwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iTunesArtwork.png; sourceTree = "<group>"; };
+		09CD5FF919E08F080026116C /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
+		09CD5FFB19E08F080026116C /* Icon1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon1024.png; sourceTree = "<group>"; };
+		09CD5FFC19E08F080026116C /* Icon128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon128.png; sourceTree = "<group>"; };
+		09CD5FFD19E08F080026116C /* Icon16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon16.png; sourceTree = "<group>"; };
+		09CD5FFE19E08F080026116C /* Icon256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon256.png; sourceTree = "<group>"; };
+		09CD5FFF19E08F080026116C /* Icon32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon32.png; sourceTree = "<group>"; };
+		09CD600019E08F080026116C /* Icon512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon512.png; sourceTree = "<group>"; };
+		09CD600119E08F080026116C /* Icon64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon64.png; sourceTree = "<group>"; };
+		09CD600319E08F080026116C /* background1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background1.png; sourceTree = "<group>"; };
+		09CD600419E08F080026116C /* background2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background2.png; sourceTree = "<group>"; };
+		09CD600519E08F080026116C /* MainMenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MainMenu.png; sourceTree = "<group>"; };
+		09CD600619E08F080026116C /* YouLose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YouLose.png; sourceTree = "<group>"; };
+		09CD600719E08F080026116C /* YouWin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YouWin.png; sourceTree = "<group>"; };
+		09CD600819E08F080026116C /* sprites.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = sprites.atlas; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,11 +132,11 @@
 			isa = PBXGroup;
 			children = (
 				09CD5F5419DEDD160026116C /* AppDelegate.swift */,
-				09CD5F5619DEDD160026116C /* GameScene.sks */,
 				09CD5F5819DEDD160026116C /* GameScene.swift */,
 				09CD5F5A19DEDD160026116C /* GameViewController.swift */,
 				09CD5F5C19DEDD160026116C /* Main.storyboard */,
 				09CD5F5F19DEDD160026116C /* Images.xcassets */,
+				09CD5FEA19E08F080026116C /* Icons */,
 				09CD5F6119DEDD160026116C /* LaunchScreen.xib */,
 				09CD5F5219DEDD160026116C /* Supporting Files */,
 			);
@@ -96,6 +146,8 @@
 		09CD5F5219DEDD160026116C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				09CD600219E08F080026116C /* Images */,
+				09CD600819E08F080026116C /* sprites.atlas */,
 				09CD5F5319DEDD160026116C /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -116,6 +168,69 @@
 				09CD5F6D19DEDD160026116C /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		09CD5FEA19E08F080026116C /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				09CD5FEB19E08F080026116C /* iOS */,
+				09CD5FF719E08F080026116C /* iTunes */,
+				09CD5FFA19E08F080026116C /* Mac */,
+			);
+			path = Icons;
+			sourceTree = "<group>";
+		};
+		09CD5FEB19E08F080026116C /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				09CD5FEC19E08F080026116C /* Icon29.png */,
+				09CD5FED19E08F080026116C /* Icon29@2x.png */,
+				09CD5FEE19E08F080026116C /* Icon29@3x.png */,
+				09CD5FEF19E08F080026116C /* Icon40.png */,
+				09CD5FF019E08F080026116C /* Icon40@2x.png */,
+				09CD5FF119E08F080026116C /* Icon40@3x.png */,
+				09CD5FF219E08F080026116C /* Icon60.png */,
+				09CD5FF319E08F080026116C /* Icon60@2x.png */,
+				09CD5FF419E08F080026116C /* Icon60@3x.png */,
+				09CD5FF519E08F080026116C /* Icon76.png */,
+				09CD5FF619E08F080026116C /* Icon76@2x.png */,
+			);
+			path = iOS;
+			sourceTree = "<group>";
+		};
+		09CD5FF719E08F080026116C /* iTunes */ = {
+			isa = PBXGroup;
+			children = (
+				09CD5FF819E08F080026116C /* iTunesArtwork.png */,
+				09CD5FF919E08F080026116C /* iTunesArtwork@2x.png */,
+			);
+			path = iTunes;
+			sourceTree = "<group>";
+		};
+		09CD5FFA19E08F080026116C /* Mac */ = {
+			isa = PBXGroup;
+			children = (
+				09CD5FFB19E08F080026116C /* Icon1024.png */,
+				09CD5FFC19E08F080026116C /* Icon128.png */,
+				09CD5FFD19E08F080026116C /* Icon16.png */,
+				09CD5FFE19E08F080026116C /* Icon256.png */,
+				09CD5FFF19E08F080026116C /* Icon32.png */,
+				09CD600019E08F080026116C /* Icon512.png */,
+				09CD600119E08F080026116C /* Icon64.png */,
+			);
+			path = Mac;
+			sourceTree = "<group>";
+		};
+		09CD600219E08F080026116C /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				09CD600319E08F080026116C /* background1.png */,
+				09CD600419E08F080026116C /* background2.png */,
+				09CD600519E08F080026116C /* MainMenu.png */,
+				09CD600619E08F080026116C /* YouLose.png */,
+				09CD600719E08F080026116C /* YouWin.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -198,10 +313,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09CD601819E08F080026116C /* Icon16.png in Resources */,
 				09CD5F6319DEDD160026116C /* LaunchScreen.xib in Resources */,
+				09CD601219E08F080026116C /* Icon76.png in Resources */,
+				09CD601F19E08F080026116C /* MainMenu.png in Resources */,
+				09CD601719E08F080026116C /* Icon128.png in Resources */,
+				09CD602019E08F080026116C /* YouLose.png in Resources */,
+				09CD601619E08F080026116C /* Icon1024.png in Resources */,
+				09CD600B19E08F080026116C /* Icon29@3x.png in Resources */,
+				09CD601519E08F080026116C /* iTunesArtwork@2x.png in Resources */,
+				09CD601419E08F080026116C /* iTunesArtwork.png in Resources */,
+				09CD600919E08F080026116C /* Icon29.png in Resources */,
+				09CD600C19E08F080026116C /* Icon40.png in Resources */,
+				09CD602119E08F080026116C /* YouWin.png in Resources */,
+				09CD601019E08F080026116C /* Icon60@2x.png in Resources */,
+				09CD600A19E08F080026116C /* Icon29@2x.png in Resources */,
 				09CD5F6019DEDD160026116C /* Images.xcassets in Resources */,
-				09CD5F5719DEDD160026116C /* GameScene.sks in Resources */,
+				09CD601319E08F080026116C /* Icon76@2x.png in Resources */,
 				09CD5F5E19DEDD160026116C /* Main.storyboard in Resources */,
+				09CD600D19E08F080026116C /* Icon40@2x.png in Resources */,
+				09CD601919E08F080026116C /* Icon256.png in Resources */,
+				09CD601E19E08F080026116C /* background2.png in Resources */,
+				09CD600F19E08F080026116C /* Icon60.png in Resources */,
+				09CD602219E08F080026116C /* sprites.atlas in Resources */,
+				09CD601119E08F080026116C /* Icon60@3x.png in Resources */,
+				09CD601D19E08F080026116C /* background1.png in Resources */,
+				09CD600E19E08F080026116C /* Icon40@3x.png in Resources */,
+				09CD601A19E08F080026116C /* Icon32.png in Resources */,
+				09CD601B19E08F080026116C /* Icon512.png in Resources */,
+				09CD601C19E08F080026116C /* Icon64.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,6 +555,7 @@
 				09CD5F7419DEDD160026116C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		09CD5F7519DEDD160026116C /* Build configuration list for PBXNativeTarget "ZombieCongaTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +564,7 @@
 				09CD5F7719DEDD160026116C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
