@@ -16,6 +16,12 @@ class GameScene: SKScene {
         //background.anchorPoint = CGPointZero
         //background.position = CGPointZero
         //background.zRotation = CGFloat(M_PI) / 8
+        background.zPosition = -1
         addChild(background)
+        println("\(background.size)")
+        
+        let zombie = SKSpriteNode(imageNamed: "zombie1")
+        zombie.position = CGPoint(x: 400, y: 400)
+        addChild(zombie)
     }
 }
